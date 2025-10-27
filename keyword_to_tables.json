@@ -1,0 +1,3349 @@
+{
+  "6 month visit": [
+    "patient",
+    "recall",
+    "recalltype"
+  ],
+  "abutment": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "abutment screw": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "account": [
+    "account"
+  ],
+  "accountingautopay": [
+    "accountingautopay"
+  ],
+  "accounts receivable": [
+    "payment",
+    "paysplit",
+    "claimproc",
+    "adjustment",
+    "famaging"
+  ],
+  "activeinstance": [
+    "activeinstance"
+  ],
+  "address": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "adjustment": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "adjustment fee": [
+    "fee",
+    "feesched",
+    "procedurecode"
+  ],
+  "aging": [
+    "famaging",
+    "payment",
+    "paysplit",
+    "claimproc",
+    "adjustment"
+  ],
+  "alertcategory": [
+    "alertcategory"
+  ],
+  "alertcategorylink": [
+    "alertcategorylink"
+  ],
+  "alertitem": [
+    "alertitem"
+  ],
+  "alertread": [
+    "alertread"
+  ],
+  "alertsub": [
+    "alertsub"
+  ],
+  "aligner": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "aligners": [
+    "orthocase",
+    "procedurelog"
+  ],
+  "allergies": [
+    "allergy",
+    "allergydef"
+  ],
+  "allergy": [
+    "allergy"
+  ],
+  "allergydef": [
+    "allergydef"
+  ],
+  "allowance": [
+    "adjustment",
+    "claimproc",
+    "fee",
+    "feesched",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "allowed amount": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "amalgam": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "amount": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "anestheticdata": [
+    "anestheticdata"
+  ],
+  "anestheticrecord": [
+    "anestheticrecord"
+  ],
+  "anesthmedsgiven": [
+    "anesthmedsgiven"
+  ],
+  "anesthmedsintake": [
+    "anesthmedsintake"
+  ],
+  "anesthmedsinventory": [
+    "anesthmedsinventory"
+  ],
+  "anesthmedsinventoryadj": [
+    "anesthmedsinventoryadj"
+  ],
+  "anesthmedsuppliers": [
+    "anesthmedsuppliers"
+  ],
+  "anesthscore": [
+    "anesthscore"
+  ],
+  "anesthvsdata": [
+    "anesthvsdata"
+  ],
+  "apikey": [
+    "apikey"
+  ],
+  "apisubscription": [
+    "apisubscription"
+  ],
+  "appeal": [
+    "claim",
+    "claimpayment",
+    "claimproc"
+  ],
+  "appointment": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "appointment reminder": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "appointmentrule": [
+    "appointmentrule"
+  ],
+  "appointmenttype": [
+    "appointmenttype"
+  ],
+  "appt": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "apptfield": [
+    "apptfield"
+  ],
+  "apptfielddef": [
+    "apptfielddef"
+  ],
+  "apptgeneralmessagesent": [
+    "apptgeneralmessagesent"
+  ],
+  "apptnewpatthankyousent": [
+    "apptnewpatthankyousent"
+  ],
+  "apptreminderrule": [
+    "apptreminderrule"
+  ],
+  "apptremindersent": [
+    "apptremindersent"
+  ],
+  "apptthankyousent": [
+    "apptthankyousent"
+  ],
+  "apptview": [
+    "apptview"
+  ],
+  "apptviewitem": [
+    "apptviewitem"
+  ],
+  "ar": [
+    "payment",
+    "paysplit",
+    "claimproc",
+    "adjustment",
+    "famaging"
+  ],
+  "asap": [
+    "asapcomm",
+    "appointment",
+    "schedule",
+    "operatory",
+    "provider"
+  ],
+  "asap list": [
+    "asapcomm",
+    "appointment",
+    "schedule",
+    "operatory",
+    "provider"
+  ],
+  "asapcomm": [
+    "asapcomm"
+  ],
+  "assigned doctor": [
+    "provider"
+  ],
+  "assistant": [
+    "provider"
+  ],
+  "autocode": [
+    "autocode"
+  ],
+  "autocodecond": [
+    "autocodecond"
+  ],
+  "autocodeitem": [
+    "autocodeitem"
+  ],
+  "autocommexcludedate": [
+    "autocommexcludedate"
+  ],
+  "automation": [
+    "automation"
+  ],
+  "automationcondition": [
+    "automationcondition"
+  ],
+  "autonote": [
+    "autonote"
+  ],
+  "autonotecontrol": [
+    "autonotecontrol"
+  ],
+  "balance": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "banding": [
+    "orthocase",
+    "procedurelog"
+  ],
+  "benefit": [
+    "benefit",
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "benefits remaining": [
+    "benefit",
+    "claimproc",
+    "insplan",
+    "inssub",
+    "patplan"
+  ],
+  "billings": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "birth date": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "birthday": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "bitewing": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "bleaching": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "bleeding": [
+    "perioexam",
+    "periomeasure"
+  ],
+  "block out": [
+    "schedule",
+    "appointmentrule"
+  ],
+  "blockout": [
+    "schedule",
+    "appointmentrule"
+  ],
+  "bone graft": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "booked": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "booking": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "braces": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "branch": [
+    "clinic",
+    "operatory"
+  ],
+  "bridge": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "broken appointment": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "broken appt": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "cal": [
+    "perioexam",
+    "periomeasure"
+  ],
+  "call": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "call note": [
+    "commlog",
+    "procnote"
+  ],
+  "canadiannetwork": [
+    "canadiannetwork"
+  ],
+  "cancel message": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "canceled": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "cancelled": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "cancelled appointment": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "cap": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "card": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "carecredit": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "carecreditwebresponse": [
+    "carecreditwebresponse"
+  ],
+  "carrier": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "case acceptance": [
+    "treatplan",
+    "treatplanattach"
+  ],
+  "cash": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "cbct": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "cbct scan": [
+    "document",
+    "mount",
+    "mountitem"
+  ],
+  "cdcrec": [
+    "cdcrec"
+  ],
+  "cdspermission": [
+    "cdspermission"
+  ],
+  "cdt code": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "cell": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "centralconnection": [
+    "centralconnection"
+  ],
+  "ceph": [
+    "document",
+    "mount",
+    "mountitem"
+  ],
+  "cert": [
+    "cert"
+  ],
+  "certemployee": [
+    "certemployee"
+  ],
+  "chair": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "chair time": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "charge": [
+    "fee",
+    "feesched",
+    "procedurecode"
+  ],
+  "charges": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "chart": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "chart note": [
+    "commlog",
+    "procnote"
+  ],
+  "chartview": [
+    "chartview"
+  ],
+  "check": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "check up": [
+    "patient",
+    "recall",
+    "recalltype"
+  ],
+  "checkup": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "city": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "claim": [
+    "carrier",
+    "claim",
+    "claimpayment",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "claimattach": [
+    "claimattach"
+  ],
+  "claimcondcodelog": [
+    "claimcondcodelog"
+  ],
+  "claimform": [
+    "claimform"
+  ],
+  "claimformitem": [
+    "claimformitem"
+  ],
+  "claimpayment": [
+    "claimpayment"
+  ],
+  "claimproc": [
+    "claimproc"
+  ],
+  "claims outstanding": [
+    "claim",
+    "claimproc",
+    "carrier"
+  ],
+  "claimsnapshot": [
+    "claimsnapshot"
+  ],
+  "claimtracking": [
+    "claimtracking"
+  ],
+  "claimvalcodelog": [
+    "claimvalcodelog"
+  ],
+  "cleaning": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "clearinghouse": [
+    "clearinghouse"
+  ],
+  "client": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "clinic": [
+    "clinic",
+    "operatory"
+  ],
+  "clinical note": [
+    "commlog",
+    "procnote"
+  ],
+  "clinicerx": [
+    "clinicerx"
+  ],
+  "clinicpref": [
+    "clinicpref"
+  ],
+  "clockevent": [
+    "clockevent"
+  ],
+  "cloudaddress": [
+    "cloudaddress"
+  ],
+  "codegroup": [
+    "codegroup"
+  ],
+  "codesystem": [
+    "codesystem"
+  ],
+  "coinsurance": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "collection": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "collection ratio": [
+    "payment",
+    "paysplit",
+    "adjustment"
+  ],
+  "commlog": [
+    "commlog"
+  ],
+  "commoptout": [
+    "commoptout"
+  ],
+  "communication log": [
+    "commlog",
+    "procnote"
+  ],
+  "company": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "complete appt": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "complete denture": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "completed": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "completed appointment": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "composite": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "computer": [
+    "computer"
+  ],
+  "computerpref": [
+    "computerpref"
+  ],
+  "confirmation": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "confirmation request": [
+    "confirmationrequest",
+    "apptremindersent"
+  ],
+  "confirmationrequest": [
+    "confirmationrequest"
+  ],
+  "connectiongroup": [
+    "connectiongroup"
+  ],
+  "conngroupattach": [
+    "conngroupattach"
+  ],
+  "consent": [
+    "sheet",
+    "sheetdef",
+    "document"
+  ],
+  "consult": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "consultation": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "contact": [
+    "carrier",
+    "contact",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "contracted fee": [
+    "fee",
+    "feesched",
+    "procedurecode"
+  ],
+  "copay": [
+    "adjustment",
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan",
+    "payment",
+    "paysplit"
+  ],
+  "core": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "cost": [
+    "fee",
+    "feesched",
+    "procedurecode"
+  ],
+  "county": [
+    "county"
+  ],
+  "covcat": [
+    "covcat"
+  ],
+  "coverage": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "covspan": [
+    "covspan"
+  ],
+  "cpt": [
+    "cpt"
+  ],
+  "credit": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "creditcard": [
+    "creditcard"
+  ],
+  "crown": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "customer": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "custrefentry": [
+    "custrefentry"
+  ],
+  "custreference": [
+    "custreference"
+  ],
+  "cvx": [
+    "cvx"
+  ],
+  "d code": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "daily total": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "dashboardar": [
+    "dashboardar"
+  ],
+  "dashboardcell": [
+    "dashboardcell"
+  ],
+  "dashboardlayout": [
+    "dashboardlayout"
+  ],
+  "databasemaintenance": [
+    "databasemaintenance"
+  ],
+  "day sheet": [
+    "payment",
+    "paysplit",
+    "adjustment",
+    "claimproc",
+    "procedurelog"
+  ],
+  "daybook": [
+    "payment",
+    "paysplit",
+    "adjustment",
+    "claimproc",
+    "procedurelog"
+  ],
+  "dbmlog": [
+    "dbmlog"
+  ],
+  "dds": [
+    "provider"
+  ],
+  "deband": [
+    "orthocase",
+    "procedurelog"
+  ],
+  "deductible": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "deep cleaning": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "definition": [
+    "definition"
+  ],
+  "deflink": [
+    "deflink"
+  ],
+  "deletedobject": [
+    "deletedobject"
+  ],
+  "denied": [
+    "carrier",
+    "claim",
+    "claimpayment",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "dental implant": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "dental plan": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "dentist": [
+    "provider"
+  ],
+  "denture": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "dentures": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "deposit": [
+    "adjustment",
+    "claimproc",
+    "deposit",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "dictcustom": [
+    "dictcustom"
+  ],
+  "discount": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "discount plan": [
+    "fee",
+    "feesched",
+    "procedurecode"
+  ],
+  "discountplan": [
+    "discountplan"
+  ],
+  "discountplansub": [
+    "discountplansub"
+  ],
+  "discussion": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "disease": [
+    "disease"
+  ],
+  "diseasedef": [
+    "diseasedef"
+  ],
+  "displayfield": [
+    "displayfield"
+  ],
+  "displayreport": [
+    "displayreport"
+  ],
+  "dispsupply": [
+    "dispsupply"
+  ],
+  "dmd": [
+    "provider"
+  ],
+  "dob": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "doctor": [
+    "provider"
+  ],
+  "document": [
+    "document"
+  ],
+  "documentmisc": [
+    "documentmisc"
+  ],
+  "documents": [
+    "document",
+    "mount"
+  ],
+  "done": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "done appointment": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "downgrade": [
+    "claimproc",
+    "procedurecode",
+    "feesched",
+    "fee"
+  ],
+  "dr": [
+    "provider"
+  ],
+  "drugmanufacturer": [
+    "drugmanufacturer"
+  ],
+  "drugunit": [
+    "drugunit"
+  ],
+  "due": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "dunning": [
+    "dunning"
+  ],
+  "earning": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "ebill": [
+    "ebill"
+  ],
+  "eclipboardimagecapture": [
+    "eclipboardimagecapture"
+  ],
+  "eclipboardimagecapturedef": [
+    "eclipboardimagecapturedef"
+  ],
+  "eclipboardsheetdef": [
+    "eclipboardsheetdef"
+  ],
+  "eduresource": [
+    "eduresource"
+  ],
+  "eform": [
+    "eform"
+  ],
+  "eformdef": [
+    "eformdef"
+  ],
+  "eformfield": [
+    "eformfield"
+  ],
+  "eformfielddef": [
+    "eformfielddef"
+  ],
+  "eformimportrule": [
+    "eformimportrule"
+  ],
+  "ehramendment": [
+    "ehramendment"
+  ],
+  "ehraptobs": [
+    "ehraptobs"
+  ],
+  "ehrcareplan": [
+    "ehrcareplan"
+  ],
+  "ehrlab": [
+    "ehrlab"
+  ],
+  "ehrlabclinicalinfo": [
+    "ehrlabclinicalinfo"
+  ],
+  "ehrlabimage": [
+    "ehrlabimage"
+  ],
+  "ehrlabnote": [
+    "ehrlabnote"
+  ],
+  "ehrlabresult": [
+    "ehrlabresult"
+  ],
+  "ehrlabresultscopyto": [
+    "ehrlabresultscopyto"
+  ],
+  "ehrlabspecimen": [
+    "ehrlabspecimen"
+  ],
+  "ehrlabspecimencondition": [
+    "ehrlabspecimencondition"
+  ],
+  "ehrlabspecimenrejectreason": [
+    "ehrlabspecimenrejectreason"
+  ],
+  "ehrmeasure": [
+    "ehrmeasure"
+  ],
+  "ehrmeasureevent": [
+    "ehrmeasureevent"
+  ],
+  "ehrnotperformed": [
+    "ehrnotperformed"
+  ],
+  "ehrpatient": [
+    "ehrpatient"
+  ],
+  "ehrprovkey": [
+    "ehrprovkey"
+  ],
+  "ehrquarterlykey": [
+    "ehrquarterlykey"
+  ],
+  "ehrsummaryccd": [
+    "ehrsummaryccd"
+  ],
+  "ehrtrigger": [
+    "ehrtrigger"
+  ],
+  "electid": [
+    "electid"
+  ],
+  "eligible": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "email": [
+    "carrier",
+    "commlog",
+    "emailmessage",
+    "insplan",
+    "patient",
+    "patplan",
+    "smsfrommobile",
+    "emailtemplate",
+    "emailaddress",
+    "emailsecure"
+  ],
+  "emailaddress": [
+    "emailaddress"
+  ],
+  "emailattach": [
+    "emailattach"
+  ],
+  "emailautograph": [
+    "emailautograph"
+  ],
+  "emailhostingtemplate": [
+    "emailhostingtemplate"
+  ],
+  "emailmessage": [
+    "emailmessage"
+  ],
+  "emailmessageuid": [
+    "emailmessageuid"
+  ],
+  "emailsecure": [
+    "emailsecure"
+  ],
+  "emailsecureattach": [
+    "emailsecureattach"
+  ],
+  "emailtemplate": [
+    "emailtemplate"
+  ],
+  "emergency": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "employee": [
+    "employee",
+    "userod"
+  ],
+  "employer": [
+    "employer"
+  ],
+  "encounter": [
+    "encounter"
+  ],
+  "endo": [
+    "provider"
+  ],
+  "endo treatment": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "endodontic": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "entrylog": [
+    "entrylog"
+  ],
+  "eob": [
+    "carrier",
+    "claim",
+    "claimpayment",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "eobattach": [
+    "eobattach"
+  ],
+  "equipment": [
+    "equipment"
+  ],
+  "erouting": [
+    "erouting"
+  ],
+  "eroutingaction": [
+    "eroutingaction"
+  ],
+  "eroutingactiondef": [
+    "eroutingactiondef"
+  ],
+  "eroutingdef": [
+    "eroutingdef"
+  ],
+  "eroutingdeflink": [
+    "eroutingdeflink"
+  ],
+  "erxlog": [
+    "erxlog"
+  ],
+  "eservicelog": [
+    "eservicelog"
+  ],
+  "eserviceshortguid": [
+    "eserviceshortguid"
+  ],
+  "eservicesignal": [
+    "eservicesignal"
+  ],
+  "estimate": [
+    "claimproc",
+    "treatplan",
+    "benefit",
+    "insplan",
+    "inssub",
+    "patplan"
+  ],
+  "etrans": [
+    "etrans"
+  ],
+  "etrans835": [
+    "etrans835"
+  ],
+  "etrans835attach": [
+    "etrans835attach"
+  ],
+  "etransmessagetext": [
+    "etransmessagetext"
+  ],
+  "evaluation": [
+    "appointment",
+    "appointmenttype",
+    "evaluation",
+    "operatory",
+    "provider"
+  ],
+  "evaluationcriterion": [
+    "evaluationcriterion"
+  ],
+  "evaluationcriteriondef": [
+    "evaluationcriteriondef"
+  ],
+  "evaluationdef": [
+    "evaluationdef"
+  ],
+  "exam": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "existing patient": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "extraction": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "famaging": [
+    "famaging"
+  ],
+  "familyhealth": [
+    "familyhealth"
+  ],
+  "fee": [
+    "fee",
+    "feesched",
+    "procedurecode"
+  ],
+  "fee schedule": [
+    "fee",
+    "feesched",
+    "procedurecode"
+  ],
+  "fees": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "feesched": [
+    "feesched"
+  ],
+  "feeschedgroup": [
+    "feeschedgroup"
+  ],
+  "feeschednote": [
+    "feeschednote"
+  ],
+  "female": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "fhircontactpoint": [
+    "fhircontactpoint"
+  ],
+  "fhirsubscription": [
+    "fhirsubscription"
+  ],
+  "fielddeflink": [
+    "fielddeflink"
+  ],
+  "files": [
+    "files"
+  ],
+  "filling": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "financing": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "finished appointment": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "first name": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "first time patient": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "first visit": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "fixed bridge": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "fixture": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "flipper": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "fluoride": [
+    "procedurelog",
+    "procedurecode",
+    "procnote"
+  ],
+  "follow up": [
+    "patient",
+    "recall",
+    "recalltype"
+  ],
+  "formpat": [
+    "formpat"
+  ],
+  "future due recall": [
+    "recall",
+    "recalltype",
+    "patient",
+    "appointment"
+  ],
+  "gender": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "gradingscale": [
+    "gradingscale"
+  ],
+  "gradingscaleitem": [
+    "gradingscaleitem"
+  ],
+  "gross": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "grouppermission": [
+    "grouppermission"
+  ],
+  "guarantor": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "guardian": [
+    "guardian"
+  ],
+  "hcpcs": [
+    "hcpcs"
+  ],
+  "health history": [
+    "sheet",
+    "sheetdef",
+    "disease",
+    "diseasedef",
+    "medicationpat"
+  ],
+  "hieclinic": [
+    "hieclinic"
+  ],
+  "hiequeue": [
+    "hiequeue"
+  ],
+  "histappointment": [
+    "histappointment"
+  ],
+  "hl7def": [
+    "hl7def"
+  ],
+  "hl7deffield": [
+    "hl7deffield"
+  ],
+  "hl7defmessage": [
+    "hl7defmessage"
+  ],
+  "hl7defsegment": [
+    "hl7defsegment"
+  ],
+  "hl7msg": [
+    "hl7msg"
+  ],
+  "hl7procattach": [
+    "hl7procattach"
+  ],
+  "hygiene": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "hygiene production": [
+    "procedurelog",
+    "claimproc",
+    "payment",
+    "paysplit"
+  ],
+  "hygiene schedule": [
+    "schedule",
+    "scheduleop",
+    "provider",
+    "operatory"
+  ],
+  "hygiene visit": [
+    "patient",
+    "recall",
+    "recalltype"
+  ],
+  "hygienist": [
+    "provider"
+  ],
+  "icd10": [
+    "icd10"
+  ],
+  "icd9": [
+    "icd9"
+  ],
+  "image": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "imagedraw": [
+    "imagedraw"
+  ],
+  "imagingdevice": [
+    "imagingdevice"
+  ],
+  "implant": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "inactive patients": [
+    "patient",
+    "appointment",
+    "recall"
+  ],
+  "income": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "initial visit": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "insbluebook": [
+    "insbluebook"
+  ],
+  "insbluebooklog": [
+    "insbluebooklog"
+  ],
+  "insbluebookrule": [
+    "insbluebookrule"
+  ],
+  "inseditlog": [
+    "inseditlog"
+  ],
+  "inseditpatlog": [
+    "inseditpatlog"
+  ],
+  "insfilingcode": [
+    "insfilingcode"
+  ],
+  "insfilingcodesubtype": [
+    "insfilingcodesubtype"
+  ],
+  "insplan": [
+    "insplan"
+  ],
+  "insplanpreference": [
+    "insplanpreference"
+  ],
+  "inssub": [
+    "inssub"
+  ],
+  "installmentplan": [
+    "installmentplan"
+  ],
+  "instructor": [
+    "instructor"
+  ],
+  "insurance": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "insurance check": [
+    "claim",
+    "claimpayment",
+    "claimproc"
+  ],
+  "insurance holder": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "insurance payment": [
+    "claim",
+    "claimpayment",
+    "claimproc"
+  ],
+  "insured": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "insverify": [
+    "insverify"
+  ],
+  "insverifyhist": [
+    "insverifyhist"
+  ],
+  "intervention": [
+    "intervention"
+  ],
+  "intraoral photo": [
+    "document",
+    "mount",
+    "mountitem"
+  ],
+  "invisalign": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "journalentry": [
+    "journalentry"
+  ],
+  "lab case": [
+    "labcase",
+    "laboratory"
+  ],
+  "labcase": [
+    "labcase"
+  ],
+  "laboratory": [
+    "laboratory"
+  ],
+  "labpanel": [
+    "labpanel"
+  ],
+  "labresult": [
+    "labresult"
+  ],
+  "labturnaround": [
+    "labturnaround"
+  ],
+  "laminate": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "language": [
+    "language"
+  ],
+  "languageforeign": [
+    "languageforeign"
+  ],
+  "languagepat": [
+    "languagepat"
+  ],
+  "last name": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "ledger": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "letter": [
+    "letter"
+  ],
+  "lettermerge": [
+    "lettermerge"
+  ],
+  "lettermergefield": [
+    "lettermergefield"
+  ],
+  "limitedbetafeature": [
+    "limitedbetafeature"
+  ],
+  "location": [
+    "clinic",
+    "operatory"
+  ],
+  "login": [
+    "userod"
+  ],
+  "loginattempt": [
+    "loginattempt"
+  ],
+  "loinc": [
+    "loinc"
+  ],
+  "male": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "maparea": [
+    "maparea"
+  ],
+  "mass text": [
+    "smsfrommobile",
+    "smstomobile",
+    "smsphone"
+  ],
+  "max": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "medical history": [
+    "sheet",
+    "sheetdef",
+    "disease",
+    "diseasedef",
+    "medicationpat"
+  ],
+  "medicalorder": [
+    "medicalorder"
+  ],
+  "medication": [
+    "medication"
+  ],
+  "medicationpat": [
+    "medicationpat"
+  ],
+  "medications": [
+    "medicationpat",
+    "medication"
+  ],
+  "medlab": [
+    "medlab"
+  ],
+  "medlabfacattach": [
+    "medlabfacattach"
+  ],
+  "medlabfacility": [
+    "medlabfacility"
+  ],
+  "medlabresult": [
+    "medlabresult"
+  ],
+  "medlabspecimen": [
+    "medlabspecimen"
+  ],
+  "member id": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "message": [
+    "commlog",
+    "procnote"
+  ],
+  "missed": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "missed appt": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "missed recall": [
+    "recall",
+    "recalltype",
+    "patient",
+    "appointment"
+  ],
+  "mobileappdevice": [
+    "mobileappdevice"
+  ],
+  "mobilebrandingprofile": [
+    "mobilebrandingprofile"
+  ],
+  "mobiledatabyte": [
+    "mobiledatabyte"
+  ],
+  "mobilenotification": [
+    "mobilenotification"
+  ],
+  "mount": [
+    "mount"
+  ],
+  "mountdef": [
+    "mountdef"
+  ],
+  "mountitem": [
+    "mountitem"
+  ],
+  "mountitemdef": [
+    "mountitemdef"
+  ],
+  "msgtopaysent": [
+    "msgtopaysent"
+  ],
+  "name": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "net": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "new patient": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "next visit reminder": [
+    "patient",
+    "recall",
+    "recalltype"
+  ],
+  "night guard": [
+    "procedurelog",
+    "procedurecode",
+    "procnote"
+  ],
+  "no show": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "note": [
+    "commlog",
+    "procnote"
+  ],
+  "notification": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "np": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "occlusal guard": [
+    "procedurelog",
+    "procedurecode",
+    "procnote"
+  ],
+  "office": [
+    "clinic",
+    "operatory"
+  ],
+  "oidexternal": [
+    "oidexternal"
+  ],
+  "oidinternal": [
+    "oidinternal"
+  ],
+  "online scheduling": [
+    "webschedrecall",
+    "asapcomm",
+    "appointment"
+  ],
+  "openings": [
+    "appointment",
+    "schedule",
+    "operatory"
+  ],
+  "operatory": [
+    "appointment",
+    "appointmenttype",
+    "clinic",
+    "operatory",
+    "provider"
+  ],
+  "oral surgeon": [
+    "provider"
+  ],
+  "orionproc": [
+    "orionproc"
+  ],
+  "ortho": [
+    "provider",
+    "orthocase",
+    "orthochart",
+    "procedurelog"
+  ],
+  "orthocase": [
+    "orthocase"
+  ],
+  "orthochart": [
+    "orthochart"
+  ],
+  "orthochartlog": [
+    "orthochartlog"
+  ],
+  "orthochartrow": [
+    "orthochartrow"
+  ],
+  "orthocharttab": [
+    "orthocharttab"
+  ],
+  "orthocharttablink": [
+    "orthocharttablink"
+  ],
+  "orthodontics": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "orthohardware": [
+    "orthohardware"
+  ],
+  "orthohardwarespec": [
+    "orthohardwarespec"
+  ],
+  "orthoplanlink": [
+    "orthoplanlink"
+  ],
+  "orthoproclink": [
+    "orthoproclink"
+  ],
+  "orthorx": [
+    "orthorx"
+  ],
+  "orthoschedule": [
+    "orthoschedule"
+  ],
+  "overpayment": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "paid": [
+    "adjustment",
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan",
+    "payment",
+    "paysplit"
+  ],
+  "paid by insurance": [
+    "claim",
+    "claimpayment",
+    "claimproc"
+  ],
+  "pano": [
+    "document",
+    "mount",
+    "mountitem"
+  ],
+  "panoramic": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider",
+    "document",
+    "mount",
+    "mountitem"
+  ],
+  "partial": [
+    "adjustment",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "partial denture": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "patfield": [
+    "patfield"
+  ],
+  "patfielddef": [
+    "patfielddef"
+  ],
+  "patfieldpickitem": [
+    "patfieldpickitem"
+  ],
+  "patient": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "patient portal": [
+    "patientportalinvite",
+    "userweb"
+  ],
+  "patientlink": [
+    "patientlink"
+  ],
+  "patientnote": [
+    "patientnote"
+  ],
+  "patientportalinvite": [
+    "patientportalinvite"
+  ],
+  "patientrace": [
+    "patientrace"
+  ],
+  "patplan": [
+    "patplan"
+  ],
+  "patrestriction": [
+    "patrestriction"
+  ],
+  "payconnectresponseweb": [
+    "payconnectresponseweb"
+  ],
+  "payer": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "payment": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "payortype": [
+    "payortype"
+  ],
+  "payperiod": [
+    "payperiod"
+  ],
+  "payplan": [
+    "payplan"
+  ],
+  "payplancharge": [
+    "payplancharge"
+  ],
+  "payplanlink": [
+    "payplanlink"
+  ],
+  "payplantemplate": [
+    "payplantemplate"
+  ],
+  "paysplit": [
+    "paysplit"
+  ],
+  "payterminal": [
+    "payterminal"
+  ],
+  "pearlrequest": [
+    "pearlrequest"
+  ],
+  "pending": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "performed": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "perio": [
+    "provider"
+  ],
+  "perio chart": [
+    "perioexam",
+    "periomeasure",
+    "procedurelog"
+  ],
+  "periodontal cleaning": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "perioexam": [
+    "perioexam"
+  ],
+  "periomeasure": [
+    "periomeasure"
+  ],
+  "person": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "pfm": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "pharmacy": [
+    "pharmacy"
+  ],
+  "pharmclinic": [
+    "pharmclinic"
+  ],
+  "phone": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "phone call": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "phonenumber": [
+    "phonenumber"
+  ],
+  "plan": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "policy": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "pontic": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "popup": [
+    "popup"
+  ],
+  "porcelain crown": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "porcelain veneer": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "post": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "post op": [
+    "procnote",
+    "commlog"
+  ],
+  "posted": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "posted amount": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "ppo fee": [
+    "fee",
+    "feesched",
+    "procedurecode"
+  ],
+  "pre authorization": [
+    "claim",
+    "claimproc",
+    "insplan",
+    "inssub",
+    "patplan"
+  ],
+  "pre determination": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "pre estimate": [
+    "claim",
+    "claimproc",
+    "insplan",
+    "inssub",
+    "patplan"
+  ],
+  "pre-authorization": [
+    "claim",
+    "claimproc",
+    "insplan",
+    "inssub",
+    "patplan"
+  ],
+  "preauth": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan",
+    "inssub"
+  ],
+  "preference": [
+    "preference"
+  ],
+  "prescription": [
+    "rxpat",
+    "rxdef",
+    "pharmacy"
+  ],
+  "price": [
+    "fee",
+    "feesched",
+    "procedurecode"
+  ],
+  "primary provider": [
+    "provider"
+  ],
+  "printer": [
+    "printer"
+  ],
+  "probing depths": [
+    "perioexam",
+    "periomeasure"
+  ],
+  "procapptcolor": [
+    "procapptcolor"
+  ],
+  "procbutton": [
+    "procbutton"
+  ],
+  "procbuttonitem": [
+    "procbuttonitem"
+  ],
+  "procbuttonquick": [
+    "procbuttonquick"
+  ],
+  "proccodenote": [
+    "proccodenote"
+  ],
+  "procedure": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "procedurecode": [
+    "procedurecode"
+  ],
+  "procedurelog": [
+    "procedurelog"
+  ],
+  "processed": [
+    "claim",
+    "claimpayment",
+    "claimproc"
+  ],
+  "procgroupitem": [
+    "procgroupitem"
+  ],
+  "procmultivisit": [
+    "procmultivisit"
+  ],
+  "procnote": [
+    "procnote"
+  ],
+  "proctp": [
+    "proctp"
+  ],
+  "production": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "program": [
+    "program"
+  ],
+  "programproperty": [
+    "programproperty"
+  ],
+  "progress note": [
+    "commlog",
+    "procnote"
+  ],
+  "promotion": [
+    "promotion"
+  ],
+  "promotionlog": [
+    "promotionlog"
+  ],
+  "prophy": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "provider": [
+    "provider"
+  ],
+  "provider production": [
+    "procedurelog",
+    "claimproc",
+    "payment",
+    "paysplit"
+  ],
+  "provider schedule": [
+    "schedule",
+    "scheduleop",
+    "provider",
+    "operatory"
+  ],
+  "provider total": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "providerclinic": [
+    "providerclinic"
+  ],
+  "providercliniclink": [
+    "providercliniclink"
+  ],
+  "providererx": [
+    "providererx"
+  ],
+  "providerident": [
+    "providerident"
+  ],
+  "pt": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "queryfilter": [
+    "queryfilter"
+  ],
+  "question": [
+    "question"
+  ],
+  "questiondef": [
+    "questiondef"
+  ],
+  "questionnaire": [
+    "sheet",
+    "sheetdef",
+    "question",
+    "questiondef"
+  ],
+  "quickpastecat": [
+    "quickpastecat"
+  ],
+  "quickpastenote": [
+    "quickpastenote"
+  ],
+  "radiograph": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider",
+    "document",
+    "mount",
+    "mountitem"
+  ],
+  "radiograph appointment": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "rct": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "reactivation": [
+    "reactivation",
+    "commlog"
+  ],
+  "recall": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "patient",
+    "provider",
+    "recall",
+    "recalltype"
+  ],
+  "recall message": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "recall patient": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "recall reminder": [
+    "webschedrecall",
+    "recall",
+    "recalltype",
+    "apptremindersent"
+  ],
+  "recalltrigger": [
+    "recalltrigger"
+  ],
+  "recalltype": [
+    "recalltype"
+  ],
+  "recare": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "patient",
+    "provider",
+    "recall",
+    "recalltype"
+  ],
+  "receive case": [
+    "refattach",
+    "referral"
+  ],
+  "received": [
+    "adjustment",
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan",
+    "payment",
+    "paysplit"
+  ],
+  "reconcile": [
+    "reconcile"
+  ],
+  "recurringcharge": [
+    "recurringcharge"
+  ],
+  "refattach": [
+    "refattach"
+  ],
+  "referral": [
+    "refattach",
+    "referral"
+  ],
+  "referral source": [
+    "refattach",
+    "referral"
+  ],
+  "referralcliniclink": [
+    "referralcliniclink"
+  ],
+  "referred by": [
+    "refattach",
+    "referral"
+  ],
+  "referred out": [
+    "refattach",
+    "referral"
+  ],
+  "referred to": [
+    "refattach",
+    "referral"
+  ],
+  "referring doctor": [
+    "refattach",
+    "referral"
+  ],
+  "refund": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "refunded": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "registrationkey": [
+    "registrationkey"
+  ],
+  "regular cleaning": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "reimbursement": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "reline": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "reminder": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "reminderrule": [
+    "reminderrule"
+  ],
+  "remittance": [
+    "claim",
+    "claimpayment",
+    "claimproc"
+  ],
+  "removable": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "repeat patient": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "repeatcharge": [
+    "repeatcharge"
+  ],
+  "replicationserver": [
+    "replicationserver"
+  ],
+  "reqneeded": [
+    "reqneeded"
+  ],
+  "reqstudent": [
+    "reqstudent"
+  ],
+  "requiredfield": [
+    "requiredfield"
+  ],
+  "requiredfieldcondition": [
+    "requiredfieldcondition"
+  ],
+  "reschedule": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "reseller": [
+    "reseller"
+  ],
+  "resellerservice": [
+    "resellerservice"
+  ],
+  "responsible party": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "restoration": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "resubmission": [
+    "claim",
+    "claimpayment",
+    "claimproc"
+  ],
+  "retainer": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "returning patient": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "revenue": [
+    "adjustment",
+    "claimproc",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "room": [
+    "appointment",
+    "appointmenttype",
+    "clinic",
+    "operatory",
+    "provider"
+  ],
+  "root canal": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "routine cleaning": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "patient",
+    "provider",
+    "recall",
+    "recalltype"
+  ],
+  "routing slip": [
+    "sheet",
+    "sheetdef",
+    "appointment",
+    "patient",
+    "procedurelog"
+  ],
+  "rx": [
+    "rxpat",
+    "rxdef",
+    "pharmacy"
+  ],
+  "rxalert": [
+    "rxalert"
+  ],
+  "rxdef": [
+    "rxdef"
+  ],
+  "rxnorm": [
+    "rxnorm"
+  ],
+  "rxpat": [
+    "rxpat"
+  ],
+  "scaling": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "scaling and root planing": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "scan": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "schedule": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider",
+    "schedule"
+  ],
+  "scheduled": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "scheduledprocess": [
+    "scheduledprocess"
+  ],
+  "scheduleop": [
+    "scheduleop"
+  ],
+  "schoolclass": [
+    "schoolclass"
+  ],
+  "schoolcourse": [
+    "schoolcourse"
+  ],
+  "screen": [
+    "screen"
+  ],
+  "screengroup": [
+    "screengroup"
+  ],
+  "screenpat": [
+    "screenpat"
+  ],
+  "sealant": [
+    "procedurelog",
+    "procedurecode",
+    "procnote"
+  ],
+  "secondary insurance": [
+    "insplan",
+    "inssub",
+    "patplan",
+    "claimproc"
+  ],
+  "security": [
+    "userod"
+  ],
+  "securitylog": [
+    "securitylog"
+  ],
+  "securityloghash": [
+    "securityloghash"
+  ],
+  "sent case": [
+    "refattach",
+    "referral"
+  ],
+  "service": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "sessiontoken": [
+    "sessiontoken"
+  ],
+  "sheet": [
+    "sheet"
+  ],
+  "sheetdef": [
+    "sheetdef"
+  ],
+  "sheetfield": [
+    "sheetfield"
+  ],
+  "sheetfielddef": [
+    "sheetfielddef"
+  ],
+  "short call list": [
+    "appointment",
+    "asapcomm",
+    "recall"
+  ],
+  "sigbutdef": [
+    "sigbutdef"
+  ],
+  "sigelementdef": [
+    "sigelementdef"
+  ],
+  "sigmessage": [
+    "sigmessage"
+  ],
+  "signalod": [
+    "signalod"
+  ],
+  "site": [
+    "clinic",
+    "operatory",
+    "site"
+  ],
+  "slot": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "sms": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "smsblockphone": [
+    "smsblockphone"
+  ],
+  "smsfrommobile": [
+    "smsfrommobile"
+  ],
+  "smsphone": [
+    "smsphone"
+  ],
+  "smstomobile": [
+    "smstomobile"
+  ],
+  "snomed": [
+    "snomed"
+  ],
+  "sop": [
+    "sop"
+  ],
+  "specialist": [
+    "provider",
+    "refattach",
+    "referral"
+  ],
+  "split payment": [
+    "adjustment",
+    "payment",
+    "paysplit"
+  ],
+  "srp": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "staff": [
+    "userod"
+  ],
+  "state": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "stateabbr": [
+    "stateabbr"
+  ],
+  "statement": [
+    "statement"
+  ],
+  "statementprod": [
+    "statementprod"
+  ],
+  "statements": [
+    "statement",
+    "stmtlink",
+    "statementprod"
+  ],
+  "stmtlink": [
+    "stmtlink"
+  ],
+  "submitted": [
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan"
+  ],
+  "submitted claim": [
+    "claim",
+    "claimpayment",
+    "claimproc"
+  ],
+  "subscriber id": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "substitutionlink": [
+    "substitutionlink"
+  ],
+  "supplier": [
+    "supplier"
+  ],
+  "supply": [
+    "supply"
+  ],
+  "supplyneeded": [
+    "supplyneeded"
+  ],
+  "supplyorder": [
+    "supplyorder"
+  ],
+  "supplyorderitem": [
+    "supplyorderitem"
+  ],
+  "surface": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "task": [
+    "task"
+  ],
+  "taskancestor": [
+    "taskancestor"
+  ],
+  "taskattachment": [
+    "taskattachment"
+  ],
+  "taskhist": [
+    "taskhist"
+  ],
+  "tasklist": [
+    "tasklist"
+  ],
+  "tasknote": [
+    "tasknote"
+  ],
+  "tasksubscription": [
+    "tasksubscription"
+  ],
+  "taskunread": [
+    "taskunread"
+  ],
+  "team member": [
+    "userod"
+  ],
+  "teeth": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "teeth cleaning": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "tempimageconv": [
+    "tempimageconv"
+  ],
+  "tempimageconv2": [
+    "tempimageconv2"
+  ],
+  "tempinsverify_bak_20250506": [
+    "tempinsverify_bak_20250506"
+  ],
+  "temporary": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "terminalactive": [
+    "terminalactive"
+  ],
+  "text": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "text note": [
+    "commlog",
+    "procnote"
+  ],
+  "texting": [
+    "smsfrommobile",
+    "smstomobile",
+    "smsphone"
+  ],
+  "time": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "timeadjust": [
+    "timeadjust"
+  ],
+  "timecardrule": [
+    "timecardrule"
+  ],
+  "tmpdocument": [
+    "tmpdocument"
+  ],
+  "tmpimages": [
+    "tmpimages"
+  ],
+  "toolbutitem": [
+    "toolbutitem"
+  ],
+  "tooth": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "toothgridcell": [
+    "toothgridcell"
+  ],
+  "toothgridcol": [
+    "toothgridcol"
+  ],
+  "toothgriddef": [
+    "toothgriddef"
+  ],
+  "toothinitial": [
+    "toothinitial"
+  ],
+  "transaction": [
+    "transaction"
+  ],
+  "transactioninvoice": [
+    "transactioninvoice"
+  ],
+  "treating provider": [
+    "provider"
+  ],
+  "treatment": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "treatment plan": [
+    "treatplan",
+    "treatplanattach",
+    "proctp",
+    "procedurelog"
+  ],
+  "treatplan": [
+    "treatplan"
+  ],
+  "treatplanattach": [
+    "treatplanattach"
+  ],
+  "treatplanparam": [
+    "treatplanparam"
+  ],
+  "tsitranslog": [
+    "tsitranslog"
+  ],
+  "tx": [
+    "treatplan",
+    "treatplanattach",
+    "proctp",
+    "procedurelog"
+  ],
+  "tx plan": [
+    "treatplan",
+    "treatplanattach",
+    "proctp",
+    "procedurelog"
+  ],
+  "ucr fee": [
+    "fee",
+    "feesched",
+    "procedurecode"
+  ],
+  "ucum": [
+    "ucum"
+  ],
+  "unscheduled": [
+    "appointment",
+    "schedule",
+    "operatory",
+    "provider"
+  ],
+  "unscheduled list": [
+    "appointment",
+    "schedule",
+    "operatory",
+    "provider"
+  ],
+  "updatehistory": [
+    "updatehistory"
+  ],
+  "urgent visit": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "user": [
+    "userod"
+  ],
+  "userclinic": [
+    "userclinic"
+  ],
+  "usergroup": [
+    "usergroup"
+  ],
+  "usergroupattach": [
+    "usergroupattach"
+  ],
+  "username": [
+    "userod"
+  ],
+  "userod": [
+    "userod"
+  ],
+  "userodapptview": [
+    "userodapptview"
+  ],
+  "userodpref": [
+    "userodpref"
+  ],
+  "userquery": [
+    "userquery"
+  ],
+  "userweb": [
+    "userweb"
+  ],
+  "utm": [
+    "utm"
+  ],
+  "vaccinedef": [
+    "vaccinedef"
+  ],
+  "vaccineobs": [
+    "vaccineobs"
+  ],
+  "vaccinepat": [
+    "vaccinepat"
+  ],
+  "veneer": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "visit": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "visitor": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "vitalsign": [
+    "vitalsign"
+  ],
+  "voicemail": [
+    "commlog",
+    "emailmessage",
+    "smsfrommobile"
+  ],
+  "walkout": [
+    "procedurelog",
+    "adjustment",
+    "payment",
+    "paysplit",
+    "claimproc"
+  ],
+  "webschedcarrierrule": [
+    "webschedcarrierrule"
+  ],
+  "webschedrecall": [
+    "webschedrecall"
+  ],
+  "white filling": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "whitening": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "wikilistheaderwidth": [
+    "wikilistheaderwidth"
+  ],
+  "wikilisthist": [
+    "wikilisthist"
+  ],
+  "wikipage": [
+    "wikipage"
+  ],
+  "wikipagehist": [
+    "wikipagehist"
+  ],
+  "write off": [
+    "adjustment",
+    "carrier",
+    "claim",
+    "claimproc",
+    "insplan",
+    "patplan",
+    "payment",
+    "paysplit",
+    "procedurecode",
+    "procedurelog"
+  ],
+  "writeoffs": [
+    "claimproc",
+    "adjustment"
+  ],
+  "x-ray": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider",
+    "document",
+    "mount",
+    "mountitem"
+  ],
+  "xchargetransaction": [
+    "xchargetransaction"
+  ],
+  "xray": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "provider"
+  ],
+  "xray appointment": [
+    "appointment",
+    "appointmenttype",
+    "operatory",
+    "procedurecode",
+    "procedurelog",
+    "procnote",
+    "provider"
+  ],
+  "xwebresponse": [
+    "xwebresponse"
+  ],
+  "yearly": [
+    "patient",
+    "recall",
+    "recalltype"
+  ],
+  "zip": [
+    "carrier",
+    "insplan",
+    "patient",
+    "patplan"
+  ],
+  "zipcode": [
+    "zipcode"
+  ],
+  "zirconia": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ],
+  "zoom whitening": [
+    "procedurecode",
+    "procedurelog",
+    "procnote"
+  ]
+}
