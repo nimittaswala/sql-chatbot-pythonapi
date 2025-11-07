@@ -106,6 +106,6 @@ def generate_sql_premium(req: GenerateRequest):
 #         candidate_tables=result.get("seed_tables",[]),
 #         schema_tables_sent=result.get("final_tables_sent",[]),
 #     )
-git reset HEAD .env
+
 
 
