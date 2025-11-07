@@ -3345,5 +3345,205 @@
     "procedurecode",
     "procedurelog",
     "procnote"
+  ],
+  "employees": [
+    "employee",
+    "userod"
+  ],
+  "workforce": [
+    "employee",
+    "userod"
+  ],
+  "staffing": [
+    "employee",
+    "userod"
+  ],
+  "team": [
+    "employee",
+    "userod"
+  ],
+  "roster": [
+    "schedule",
+    "scheduleop",
+    "employee",
+    "provider"
+  ],
+  "shift": [
+    "schedule",
+    "scheduleop",
+    "employee",
+    "provider"
+  ],
+  "shifts": [
+    "schedule",
+    "scheduleop",
+    "employee",
+    "provider"
+  ],
+  "attendance": [
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "absent": [
+    "schedule",
+    "clockevent",
+    "employee"
+  ],
+  "absence": [
+    "schedule",
+    "clockevent",
+    "employee"
+  ],
+  "present": [
+    "clockevent",
+    "employee"
+  ],
+  "on duty": [
+    "schedule",
+    "employee",
+    "provider"
+  ],
+  "clock": [
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "clock in": [
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "clock out": [
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "clocked": [
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "punch": [
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "punches": [
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "timecard": [
+    "clockevent",
+    "timeadjust",
+    "timecardrule",
+    "payperiod",
+    "employee"
+  ],
+  "timesheet": [
+    "clockevent",
+    "timeadjust",
+    "timecardrule",
+    "payperiod",
+    "employee"
+  ],
+  "overtime": [
+    "clockevent",
+    "timeadjust",
+    "timecardrule",
+    "employee"
+  ],
+  "hours": [
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "pay period": [
+    "payperiod",
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "break": [
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "lunch": [
+    "clockevent",
+    "timeadjust",
+    "employee"
+  ],
+  "front desk": [
+    "employee",
+    "userod",
+    "schedule",
+    "clockevent"
+  ],
+  "assistants": [
+    "provider"
+  ],
+  "hygienists": [
+    "provider"
+  ],
+  "doctors": [
+    "provider"
+  ],
+  "providers": [
+    "provider"
+  ],
+  "schedule today": [
+    "schedule",
+    "scheduleop",
+    "operatory",
+    "provider",
+    "employee"
+  ],
+  "work schedule": [
+    "schedule",
+    "scheduleop",
+    "operatory",
+    "provider",
+    "employee"
+  ],
+  "coverage schedule": [
+    "schedule",
+    "scheduleop",
+    "operatory",
+    "provider",
+    "employee"
+  ],
+  "operatory schedule": [
+    "schedule",
+    "scheduleop",
+    "operatory",
+    "provider"
+  ],
+  "providers schedule": [
+    "schedule",
+    "scheduleop",
+    "provider"
+  ],
+  "hygienist schedule": [
+    "schedule",
+    "scheduleop",
+    "provider"
+  ],
+  "assistant schedule": [
+    "schedule",
+    "scheduleop",
+    "provider"
+  ],
+  "staff schedule": [
+    "schedule",
+    "scheduleop",
+    "employee",
+    "provider"
+  ],
+  "employee schedule": [
+    "schedule",
+    "scheduleop",
+    "employee"
   ]
 }
