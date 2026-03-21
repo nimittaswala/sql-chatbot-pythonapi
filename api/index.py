@@ -7,9 +7,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 
-from premium import run_pipeline_premium
-from basic import run_pipeline
-
 load_dotenv("Config.env")
 
 SCHEMA_PATH = os.getenv("SCHEMA_PATH", "schema_tree.json")
@@ -43,11 +40,19 @@ class GenerateResponse(BaseModel):
 
 @router.get("/health")
 def health():
-    return {"status": "ok"}
+    return {
+        "status": "ok",
+        "schema_path": SCHEMA_PATH,
+        "keywords_path": KEYWORDS_PATH,
+        "dialect": SQL_DIALECT,
+        "model": MODEL,
+    }
 
 @router.post("/generate_sql", response_model=GenerateResponse)
 def generate_sql(req: GenerateRequest):
     try:
+        from basic import run_pipeline
+
         result = run_pipeline(
             question=req.question.strip(),
             schema_path=req.schema_path or SCHEMA_PATH,
@@ -64,6 +69,8 @@ def generate_sql(req: GenerateRequest):
 @router.post("/generate_sql_premium", response_model=GenerateResponse)
 def generate_sql_premium(req: GenerateRequest):
     try:
+        from premium import run_pipeline_premium
+
         result = run_pipeline_premium(
             question=req.question.strip(),
             schema_path=req.schema_path or SCHEMA_PATH,
