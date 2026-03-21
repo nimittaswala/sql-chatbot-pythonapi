@@ -1,5 +1,6 @@
 from __future__ import annotations
 import os
+from pathlib import Path
 from typing import List, Optional
 
 from fastapi import FastAPI, HTTPException, APIRouter
@@ -7,10 +8,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 
-load_dotenv("Config.env")
+BASE_DIR = Path(__file__).resolve().parent
+load_dotenv(BASE_DIR / "Config.env")
 
-SCHEMA_PATH = os.getenv("SCHEMA_PATH", "schema_tree.json")
-KEYWORDS_PATH = os.getenv("KEYWORDS_PATH", "keyword_to_tables.json")
+SCHEMA_PATH = os.getenv("SCHEMA_PATH", str(BASE_DIR / "schema_tree.json"))
+KEYWORDS_PATH = os.getenv("KEYWORDS_PATH", str(BASE_DIR / "keyword_to_tables.json"))
 SQL_DIALECT = os.getenv("SQL_DIALECT", "mysql")
 MODEL = os.getenv("OPENAI_MODEL", "gpt-5")
 
