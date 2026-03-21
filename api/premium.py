@@ -6,7 +6,7 @@ from typing import Any, Dict, List, Tuple, Optional, Set
 from collections import defaultdict, deque
 
 # Reuse helpers from basic.py (no duplication)
-from basic import (
+from api.basic import (
     load_json,
     slice_schema,
     extract_candidate_tables,

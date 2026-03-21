@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 
-from premium import run_pipeline_premium
+from api.premium import run_pipeline_premium
 
 # --- pull config for API layer only ---
 load_dotenv("Config.env")
@@ -17,7 +17,7 @@ SQL_DIALECT   = os.getenv("SQL_DIALECT", "mysql")
 MODEL         = os.getenv("OPENAI_MODEL", "gpt-5")
 
 # --- import the logic layer ---
-from basic import run_pipeline 
+from api.basic import run_pipeline 
 
 
 # --- FastAPI app ---
