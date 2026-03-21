@@ -51,7 +51,7 @@ def health():
 @router.post("/generate_sql", response_model=GenerateResponse)
 def generate_sql(req: GenerateRequest):
     try:
-        from basic import run_pipeline
+        from api.basic import run_pipeline
 
         result = run_pipeline(
             question=req.question.strip(),
@@ -69,7 +69,7 @@ def generate_sql(req: GenerateRequest):
 @router.post("/generate_sql_premium", response_model=GenerateResponse)
 def generate_sql_premium(req: GenerateRequest):
     try:
-        from premium import run_pipeline_premium
+        from api.premium import run_pipeline_premium
 
         result = run_pipeline_premium(
             question=req.question.strip(),
