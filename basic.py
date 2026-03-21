@@ -1,4 +1,4 @@
-.\.venv\Scripts\activate# basic.py
+
 from __future__ import annotations
 import os, re, json
 from pathlib import Path
